@@ -49,7 +49,7 @@ Based on the above, Random Forest Model is used for prediction.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/agneepradeep/Afame-Technologies.git
    cd credit-card-fraud-detection
    ```
 
