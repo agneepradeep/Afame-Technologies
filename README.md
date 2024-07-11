@@ -72,4 +72,4 @@ Based on the above, Random Forest Model is used for prediction.
    ```
 
 ## Licence
-This project is licensed under the MIT License. See the [LICENSE file](LICENSE.md) for details.
+This project is licensed under the MIT License. See the [LICENSE file](LICENSE) for details.
