@@ -71,10 +71,5 @@ Based on the above, Random Forest Model is used for prediction.
    python app.py
    ```
 
-2. Open your web browser and navigate to `http://127.0.0.1:5000`.
-
-3. Fill out the form with transaction details and click "Predict" to see the result.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## Licence
+This project is licensed under the MIT License. See the [LICENSE file](LICENSE.md) for details.
